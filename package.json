@@ -1,0 +1,13 @@
+{
+  "name": "flushed-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
