@@ -8,7 +8,7 @@ dotenv.config()
 
 client.on('ready', () => {
     console.log('What if I was online? 😳');
-  });
+});
 
 client.on('message', msg => {
     msg.react('😳')
